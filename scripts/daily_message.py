@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Pick a random haiku or confidence-boosting message and drop it into README.md
-between the MESSAGE:START / MESSAGE:END markers. Run daily by the GitHub Action
-in .github/workflows/daily-message.yml.
+"""Pick ONE random haiku or confidence-boosting message and drop it into
+README.md between the MESSAGE:START / MESSAGE:END markers. Called multiple
+times per day (1-10x, randomly) by .github/workflows/daily-message.yml.
 """
 import json
 import random
@@ -34,12 +34,10 @@ def main() -> None:
         re.escape(START_MARKER) + r".*?" + re.escape(END_MARKER), re.DOTALL
     )
     replacement = f"{START_MARKER}\n{block}\n{END_MARKER}"
-
     if pattern.search(readme):
         readme = pattern.sub(replacement, readme)
     else:
         readme = readme.rstrip() + f"\n\n{replacement}\n"
-
     README_PATH.write_text(readme)
 
 

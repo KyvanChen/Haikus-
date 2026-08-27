@@ -2,8 +2,8 @@ name: Daily Motivation
 
 on:
   schedule:
-    # 14:00 UTC = 6am/7am Pacific depending on daylight saving.
-    # Edit this cron expression to change the time.
+    # Fires once a day; the job itself then makes a random number (1-10)
+    # of separate commits, each with a randomly picked message.
     - cron: "0 14 * * *"
   workflow_dispatch: {}
 
@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  post-daily-message:
+  post-daily-messages:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -22,17 +22,22 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Pick today's message
-        run: python scripts/daily_message.py
-
-      - name: Commit and push if changed
+      - name: Post a random number (1-10) of messages as separate commits
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No change today (unlikely, but nothing to commit)."
-          else
-            git commit -m "Daily motivation: $(date -u +%Y-%m-%d)"
-            git push
-          fi
+
+          COUNT=$(( (RANDOM % 10) + 1 ))
+          echo "Posting $COUNT message(s) today"
+
+          for i in $(seq 1 "$COUNT"); do
+            python scripts/daily_message.py
+            git add README.md
+            if git diff --cached --quiet; then
+              echo "No change on commit $i/$COUNT, skipping"
+            else
+              git commit -m "Motivation update $i/$COUNT: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            fi
+          done
+
+          git push
