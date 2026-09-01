@@ -6,9 +6,9 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Haiku of the day**
 
-> Storm clouds pass and fade
-> the sun was always still there
-> so is your own strength
+> Small root breaks the stone
+> patience is its quiet strength
+> you are built the same
 <!-- MESSAGE:END -->
 
 ---
