@@ -6,9 +6,9 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Haiku of the day**
 
-> One foot then the next
-> the path was never finished
-> still, you keep walking
+> Quiet morning light
+> seeds of courage start to bloom
+> you begin again
 <!-- MESSAGE:END -->
 
 ---
