@@ -6,9 +6,9 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Haiku of the day**
 
-> Doubt is just weather
-> it passes through, then moves on
-> you remain, whole
+> Storm clouds pass and fade
+> the sun was always still there
+> so is your own strength
 <!-- MESSAGE:END -->
 
 ---
