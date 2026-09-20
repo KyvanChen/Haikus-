@@ -4,11 +4,9 @@ A tiny daily dose of motivation: a haiku or a confidence-boosting message,
 picked at random every day and posted right here by a GitHub Action.
 
 <!-- MESSAGE:START -->
-**Haiku of the day**
+**Today's boost**
 
-> Small root breaks the stone
-> patience is its quiet strength
-> you are built the same
+> You are allowed to be a beginner. Everyone worth admiring started exactly where you are.
 <!-- MESSAGE:END -->
 
 ---
