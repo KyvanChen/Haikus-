@@ -6,9 +6,9 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Haiku of the day**
 
-> Storm clouds pass and fade
-> the sun was always still there
-> so is your own strength
+> One foot then the next
+> the path was never finished
+> still, you keep walking
 <!-- MESSAGE:END -->
 
 ---
