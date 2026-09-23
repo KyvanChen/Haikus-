@@ -6,9 +6,9 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Haiku of the day**
 
-> Quiet morning light
-> seeds of courage start to bloom
-> you begin again
+> Small root breaks the stone
+> patience is its quiet strength
+> you are built the same
 <!-- MESSAGE:END -->
 
 ---
