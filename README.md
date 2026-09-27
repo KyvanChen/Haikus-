@@ -6,7 +6,7 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Today's boost**
 
-> Progress you can't see yet is still progress. Keep going.
+> You are allowed to be a beginner. Everyone worth admiring started exactly where you are.
 <!-- MESSAGE:END -->
 
 ---
