@@ -4,11 +4,9 @@ A tiny daily dose of motivation: a haiku or a confidence-boosting message,
 picked at random every day and posted right here by a GitHub Action.
 
 <!-- MESSAGE:START -->
-**Haiku of the day**
+**Today's boost**
 
-> Storm clouds pass and fade
-> the sun was always still there
-> so is your own strength
+> You don't have to feel ready to begin. Readiness usually shows up after the first step, not before it.
 <!-- MESSAGE:END -->
 
 ---
