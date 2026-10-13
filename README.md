@@ -6,7 +6,7 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Today's boost**
 
-> Progress you can't see yet is still progress. Keep going.
+> You've gotten through every hard day so far. That's not luck, that's a track record.
 <!-- MESSAGE:END -->
 
 ---
