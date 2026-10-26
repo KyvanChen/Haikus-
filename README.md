@@ -6,7 +6,7 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Today's boost**
 
-> The fact that this is hard doesn't mean you're doing it wrong. It means you're doing something worth doing.
+> Progress you can't see yet is still progress. Keep going.
 <!-- MESSAGE:END -->
 
 ---
