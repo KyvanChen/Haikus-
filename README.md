@@ -4,9 +4,11 @@ A tiny daily dose of motivation: a haiku or a confidence-boosting message,
 picked at random every day and posted right here by a GitHub Action.
 
 <!-- MESSAGE:START -->
-**Today's boost**
+**Haiku of the day**
 
-> The fact that this is hard doesn't mean you're doing it wrong. It means you're doing something worth doing.
+> Quiet morning light
+> seeds of courage start to bloom
+> you begin again
 <!-- MESSAGE:END -->
 
 ---
