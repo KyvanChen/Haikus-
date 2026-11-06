@@ -4,11 +4,9 @@ A tiny daily dose of motivation: a haiku or a confidence-boosting message,
 picked at random every day and posted right here by a GitHub Action.
 
 <!-- MESSAGE:START -->
-**Haiku of the day**
+**Today's boost**
 
-> Storm clouds pass and fade
-> the sun was always still there
-> so is your own strength
+> You are allowed to be a beginner. Everyone worth admiring started exactly where you are.
 <!-- MESSAGE:END -->
 
 ---
