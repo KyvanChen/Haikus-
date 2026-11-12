@@ -4,11 +4,9 @@ A tiny daily dose of motivation: a haiku or a confidence-boosting message,
 picked at random every day and posted right here by a GitHub Action.
 
 <!-- MESSAGE:START -->
-**Haiku of the day**
+**Today's boost**
 
-> Doubt is just weather
-> it passes through, then moves on
-> you remain, whole
+> You've gotten through every hard day so far. That's not luck, that's a track record.
 <!-- MESSAGE:END -->
 
 ---
