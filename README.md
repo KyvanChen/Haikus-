@@ -6,7 +6,7 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Today's boost**
 
-> You don't have to feel ready to begin. Readiness usually shows up after the first step, not before it.
+> You've gotten through every hard day so far. That's not luck, that's a track record.
 <!-- MESSAGE:END -->
 
 ---
