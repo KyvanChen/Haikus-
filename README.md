@@ -6,7 +6,7 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Today's boost**
 
-> You don't have to feel ready to begin. Readiness usually shows up after the first step, not before it.
+> The fact that this is hard doesn't mean you're doing it wrong. It means you're doing something worth doing.
 <!-- MESSAGE:END -->
 
 ---
