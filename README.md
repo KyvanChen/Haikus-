@@ -6,9 +6,9 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Haiku of the day**
 
-> Doubt is just weather
-> it passes through, then moves on
-> you remain, whole
+> Quiet morning light
+> seeds of courage start to bloom
+> you begin again
 <!-- MESSAGE:END -->
 
 ---
