@@ -6,7 +6,7 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Today's boost**
 
-> You've gotten through every hard day so far. That's not luck, that's a track record.
+> The fact that this is hard doesn't mean you're doing it wrong. It means you're doing something worth doing.
 <!-- MESSAGE:END -->
 
 ---
