@@ -6,9 +6,9 @@ picked at random every day and posted right here by a GitHub Action.
 <!-- MESSAGE:START -->
 **Haiku of the day**
 
-> Small root breaks the stone
-> patience is its quiet strength
-> you are built the same
+> One foot then the next
+> the path was never finished
+> still, you keep walking
 <!-- MESSAGE:END -->
 
 ---
